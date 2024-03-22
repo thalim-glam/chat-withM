@@ -27,15 +27,7 @@
 
 ## User Instruction
 
-  - Click here for the repository:  
-  - Click here for Readme file: 
-  - Click here for the Heroku-deployed link :  
-  - Here is a sample screenshots of my application :
-    - Heroku Deployed link: https://thomework14-f428e50cb4fe.herokuapp.com/ 
-    - Showing all post ![Screenshot of all post](./public/image/screenshot1.jpg)
-    - Login Page  ![Screenshot-2](./public/image/Login_page.png)
-    - Blogpost from one user ![Screenshot-3](./public/image/Userpost.jpg)
-    - Blogpost from multiple user ![Screenshot-4](./public/image/Multiple_user.png)
+  - User instruction will go here
 
 ## Command line code
 
@@ -53,8 +45,7 @@ I used the following command lines:
 
 ## Credits
 
-Apart from me :D the credit also goes to my Instructor, the TAs, my Tutor, Classmates, and 
-- Class Recordings
+- Helpful Links:
 - https://www.geeksforgeeks.org/
 - https://stackoverflow.com/
 - https://sequelize.org/
