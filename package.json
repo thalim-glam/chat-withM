@@ -1,0 +1,19 @@
+{
+  "name": "chat-withm",
+  "version": "1.0.0",
+  "description": "## Description - Feeling lonely, or bored, or just wanna hangout? Chat with me...",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.5.3",
+    "dotenv": "^16.0.1"
+  }
+}
