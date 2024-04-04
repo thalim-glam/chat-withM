@@ -66,8 +66,8 @@ To test this application please type,
   - Click here for deployed Heroku link : 
 
 ## Deploying to Heroku
-:) This is suggested in the Heroku website.
-:) Therefore using it for testing purpose.
+:) 
+:) This is hints from Heroku site
 
 ```
 $ heroku create
